@@ -1,3 +1,7 @@
+# 0.0.4
+- Make nav sticky on desktop - add `Sticky Plugin`
+- fix `memory_limit`
+
 # 0.0.3
 - add Custom theme
 
