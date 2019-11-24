@@ -1,3 +1,6 @@
+# 0.0.5
+- Product header panel
+
 # 0.0.4
 - Make nav sticky on desktop - add `Sticky Plugin`
 - fix `memory_limit`
